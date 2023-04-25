@@ -11,6 +11,6 @@ int main()
     cout <<"igual a 10 ou menor"<<"\n";
    }
 
-    system("pause");
+    system("pauseeee");
     return 0;
 }
